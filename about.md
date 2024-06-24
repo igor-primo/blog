@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hey there. I am a developer and system administrator,
+Hey there. I am a devops engineer, developer and system administrator,
 eternal student, doer, sartorialist?, singer?,
 occasionally depressed, mostly confident, almost polyglot.
 
 Para compatriotas:
 
-E aí. Sou desenvolvedor e administrador de sistemas, estudante eterno,
+E aí. Sou engenheiro devops, desenvolvedor e administrador de sistemas, estudante eterno,
 fazedor, sartorialista?, cantor?, ocasionalmente deprimido, na maioria das
 vezes confiante, quase um poliglota.
 
@@ -24,7 +24,9 @@ DevOps is fresh air in sulfur poisoned atmosphere.
 
 Simplicity is divine-like in music, programming... everything, isn't?
 
-Everybody hates and misunderstands Haskell, but love it's benefits... only if they knew it...
+Everybody hates and misunderstands Haskell, but secretly love it's benefits... only if they knew it...
+
+Powerlifting strengthens more the mind than the body.
 
 ### Contact me
     
